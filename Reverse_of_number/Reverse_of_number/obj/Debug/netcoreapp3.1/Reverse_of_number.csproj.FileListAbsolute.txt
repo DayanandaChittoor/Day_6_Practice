@@ -1,0 +1,13 @@
+C:\Users\dayas\programcodes\Day_6_Practice\Reverse_of_number\Reverse_of_number\bin\Debug\netcoreapp3.1\Reverse_of_number.exe
+C:\Users\dayas\programcodes\Day_6_Practice\Reverse_of_number\Reverse_of_number\bin\Debug\netcoreapp3.1\Reverse_of_number.deps.json
+C:\Users\dayas\programcodes\Day_6_Practice\Reverse_of_number\Reverse_of_number\bin\Debug\netcoreapp3.1\Reverse_of_number.runtimeconfig.json
+C:\Users\dayas\programcodes\Day_6_Practice\Reverse_of_number\Reverse_of_number\bin\Debug\netcoreapp3.1\Reverse_of_number.runtimeconfig.dev.json
+C:\Users\dayas\programcodes\Day_6_Practice\Reverse_of_number\Reverse_of_number\bin\Debug\netcoreapp3.1\Reverse_of_number.dll
+C:\Users\dayas\programcodes\Day_6_Practice\Reverse_of_number\Reverse_of_number\bin\Debug\netcoreapp3.1\Reverse_of_number.pdb
+C:\Users\dayas\programcodes\Day_6_Practice\Reverse_of_number\Reverse_of_number\obj\Debug\netcoreapp3.1\Reverse_of_number.csproj.AssemblyReference.cache
+C:\Users\dayas\programcodes\Day_6_Practice\Reverse_of_number\Reverse_of_number\obj\Debug\netcoreapp3.1\Reverse_of_number.AssemblyInfoInputs.cache
+C:\Users\dayas\programcodes\Day_6_Practice\Reverse_of_number\Reverse_of_number\obj\Debug\netcoreapp3.1\Reverse_of_number.AssemblyInfo.cs
+C:\Users\dayas\programcodes\Day_6_Practice\Reverse_of_number\Reverse_of_number\obj\Debug\netcoreapp3.1\Reverse_of_number.csproj.CoreCompileInputs.cache
+C:\Users\dayas\programcodes\Day_6_Practice\Reverse_of_number\Reverse_of_number\obj\Debug\netcoreapp3.1\Reverse_of_number.dll
+C:\Users\dayas\programcodes\Day_6_Practice\Reverse_of_number\Reverse_of_number\obj\Debug\netcoreapp3.1\Reverse_of_number.pdb
+C:\Users\dayas\programcodes\Day_6_Practice\Reverse_of_number\Reverse_of_number\obj\Debug\netcoreapp3.1\Reverse_of_number.genruntimeconfig.cache

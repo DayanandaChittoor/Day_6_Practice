@@ -1,0 +1,13 @@
+C:\Users\dayas\programcodes\Day_6_Practice\Perfect_Number\Perfect_Number\obj\Debug\netcoreapp3.1\Perfect_Number.csproj.AssemblyReference.cache
+C:\Users\dayas\programcodes\Day_6_Practice\Perfect_Number\Perfect_Number\obj\Debug\netcoreapp3.1\Perfect_Number.AssemblyInfoInputs.cache
+C:\Users\dayas\programcodes\Day_6_Practice\Perfect_Number\Perfect_Number\obj\Debug\netcoreapp3.1\Perfect_Number.AssemblyInfo.cs
+C:\Users\dayas\programcodes\Day_6_Practice\Perfect_Number\Perfect_Number\obj\Debug\netcoreapp3.1\Perfect_Number.csproj.CoreCompileInputs.cache
+C:\Users\dayas\programcodes\Day_6_Practice\Perfect_Number\Perfect_Number\bin\Debug\netcoreapp3.1\Perfect_Number.exe
+C:\Users\dayas\programcodes\Day_6_Practice\Perfect_Number\Perfect_Number\bin\Debug\netcoreapp3.1\Perfect_Number.deps.json
+C:\Users\dayas\programcodes\Day_6_Practice\Perfect_Number\Perfect_Number\bin\Debug\netcoreapp3.1\Perfect_Number.runtimeconfig.json
+C:\Users\dayas\programcodes\Day_6_Practice\Perfect_Number\Perfect_Number\bin\Debug\netcoreapp3.1\Perfect_Number.runtimeconfig.dev.json
+C:\Users\dayas\programcodes\Day_6_Practice\Perfect_Number\Perfect_Number\bin\Debug\netcoreapp3.1\Perfect_Number.dll
+C:\Users\dayas\programcodes\Day_6_Practice\Perfect_Number\Perfect_Number\bin\Debug\netcoreapp3.1\Perfect_Number.pdb
+C:\Users\dayas\programcodes\Day_6_Practice\Perfect_Number\Perfect_Number\obj\Debug\netcoreapp3.1\Perfect_Number.dll
+C:\Users\dayas\programcodes\Day_6_Practice\Perfect_Number\Perfect_Number\obj\Debug\netcoreapp3.1\Perfect_Number.pdb
+C:\Users\dayas\programcodes\Day_6_Practice\Perfect_Number\Perfect_Number\obj\Debug\netcoreapp3.1\Perfect_Number.genruntimeconfig.cache

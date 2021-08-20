@@ -1,0 +1,13 @@
+C:\Users\dayas\programcodes\Day_6_Practice\Fibonacci_Series\Fibonacci_Series\obj\Debug\netcoreapp3.1\Fibonacci_Series.csproj.AssemblyReference.cache
+C:\Users\dayas\programcodes\Day_6_Practice\Fibonacci_Series\Fibonacci_Series\obj\Debug\netcoreapp3.1\Fibonacci_Series.AssemblyInfoInputs.cache
+C:\Users\dayas\programcodes\Day_6_Practice\Fibonacci_Series\Fibonacci_Series\obj\Debug\netcoreapp3.1\Fibonacci_Series.AssemblyInfo.cs
+C:\Users\dayas\programcodes\Day_6_Practice\Fibonacci_Series\Fibonacci_Series\obj\Debug\netcoreapp3.1\Fibonacci_Series.csproj.CoreCompileInputs.cache
+C:\Users\dayas\programcodes\Day_6_Practice\Fibonacci_Series\Fibonacci_Series\bin\Debug\netcoreapp3.1\Fibonacci_Series.exe
+C:\Users\dayas\programcodes\Day_6_Practice\Fibonacci_Series\Fibonacci_Series\bin\Debug\netcoreapp3.1\Fibonacci_Series.deps.json
+C:\Users\dayas\programcodes\Day_6_Practice\Fibonacci_Series\Fibonacci_Series\bin\Debug\netcoreapp3.1\Fibonacci_Series.runtimeconfig.json
+C:\Users\dayas\programcodes\Day_6_Practice\Fibonacci_Series\Fibonacci_Series\bin\Debug\netcoreapp3.1\Fibonacci_Series.runtimeconfig.dev.json
+C:\Users\dayas\programcodes\Day_6_Practice\Fibonacci_Series\Fibonacci_Series\bin\Debug\netcoreapp3.1\Fibonacci_Series.dll
+C:\Users\dayas\programcodes\Day_6_Practice\Fibonacci_Series\Fibonacci_Series\bin\Debug\netcoreapp3.1\Fibonacci_Series.pdb
+C:\Users\dayas\programcodes\Day_6_Practice\Fibonacci_Series\Fibonacci_Series\obj\Debug\netcoreapp3.1\Fibonacci_Series.dll
+C:\Users\dayas\programcodes\Day_6_Practice\Fibonacci_Series\Fibonacci_Series\obj\Debug\netcoreapp3.1\Fibonacci_Series.pdb
+C:\Users\dayas\programcodes\Day_6_Practice\Fibonacci_Series\Fibonacci_Series\obj\Debug\netcoreapp3.1\Fibonacci_Series.genruntimeconfig.cache

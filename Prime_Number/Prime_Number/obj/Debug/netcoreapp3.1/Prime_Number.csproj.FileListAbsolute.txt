@@ -1,0 +1,12 @@
+C:\Users\dayas\programcodes\Day_6_Practice\Prime_Number\Prime_Number\bin\Debug\netcoreapp3.1\Prime_Number.exe
+C:\Users\dayas\programcodes\Day_6_Practice\Prime_Number\Prime_Number\bin\Debug\netcoreapp3.1\Prime_Number.deps.json
+C:\Users\dayas\programcodes\Day_6_Practice\Prime_Number\Prime_Number\bin\Debug\netcoreapp3.1\Prime_Number.runtimeconfig.json
+C:\Users\dayas\programcodes\Day_6_Practice\Prime_Number\Prime_Number\bin\Debug\netcoreapp3.1\Prime_Number.runtimeconfig.dev.json
+C:\Users\dayas\programcodes\Day_6_Practice\Prime_Number\Prime_Number\bin\Debug\netcoreapp3.1\Prime_Number.dll
+C:\Users\dayas\programcodes\Day_6_Practice\Prime_Number\Prime_Number\bin\Debug\netcoreapp3.1\Prime_Number.pdb
+C:\Users\dayas\programcodes\Day_6_Practice\Prime_Number\Prime_Number\obj\Debug\netcoreapp3.1\Prime_Number.AssemblyInfoInputs.cache
+C:\Users\dayas\programcodes\Day_6_Practice\Prime_Number\Prime_Number\obj\Debug\netcoreapp3.1\Prime_Number.AssemblyInfo.cs
+C:\Users\dayas\programcodes\Day_6_Practice\Prime_Number\Prime_Number\obj\Debug\netcoreapp3.1\Prime_Number.csproj.CoreCompileInputs.cache
+C:\Users\dayas\programcodes\Day_6_Practice\Prime_Number\Prime_Number\obj\Debug\netcoreapp3.1\Prime_Number.dll
+C:\Users\dayas\programcodes\Day_6_Practice\Prime_Number\Prime_Number\obj\Debug\netcoreapp3.1\Prime_Number.pdb
+C:\Users\dayas\programcodes\Day_6_Practice\Prime_Number\Prime_Number\obj\Debug\netcoreapp3.1\Prime_Number.genruntimeconfig.cache

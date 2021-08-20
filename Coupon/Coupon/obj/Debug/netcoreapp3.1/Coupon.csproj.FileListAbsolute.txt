@@ -1,0 +1,13 @@
+C:\Users\dayas\programcodes\Day_6_Practice\Coupon\Coupon\obj\Debug\netcoreapp3.1\Coupon.csproj.AssemblyReference.cache
+C:\Users\dayas\programcodes\Day_6_Practice\Coupon\Coupon\obj\Debug\netcoreapp3.1\Coupon.AssemblyInfoInputs.cache
+C:\Users\dayas\programcodes\Day_6_Practice\Coupon\Coupon\obj\Debug\netcoreapp3.1\Coupon.AssemblyInfo.cs
+C:\Users\dayas\programcodes\Day_6_Practice\Coupon\Coupon\obj\Debug\netcoreapp3.1\Coupon.csproj.CoreCompileInputs.cache
+C:\Users\dayas\programcodes\Day_6_Practice\Coupon\Coupon\bin\Debug\netcoreapp3.1\Coupon.exe
+C:\Users\dayas\programcodes\Day_6_Practice\Coupon\Coupon\bin\Debug\netcoreapp3.1\Coupon.deps.json
+C:\Users\dayas\programcodes\Day_6_Practice\Coupon\Coupon\bin\Debug\netcoreapp3.1\Coupon.runtimeconfig.json
+C:\Users\dayas\programcodes\Day_6_Practice\Coupon\Coupon\bin\Debug\netcoreapp3.1\Coupon.runtimeconfig.dev.json
+C:\Users\dayas\programcodes\Day_6_Practice\Coupon\Coupon\bin\Debug\netcoreapp3.1\Coupon.dll
+C:\Users\dayas\programcodes\Day_6_Practice\Coupon\Coupon\bin\Debug\netcoreapp3.1\Coupon.pdb
+C:\Users\dayas\programcodes\Day_6_Practice\Coupon\Coupon\obj\Debug\netcoreapp3.1\Coupon.dll
+C:\Users\dayas\programcodes\Day_6_Practice\Coupon\Coupon\obj\Debug\netcoreapp3.1\Coupon.pdb
+C:\Users\dayas\programcodes\Day_6_Practice\Coupon\Coupon\obj\Debug\netcoreapp3.1\Coupon.genruntimeconfig.cache
